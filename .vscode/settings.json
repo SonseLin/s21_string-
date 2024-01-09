@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdarg.h": "c",
+        "s21_str_ptrs.h": "c"
+    }
+}
